@@ -7,6 +7,8 @@
 
 DecisionTree.py    决策树
 
+K-NearestNeighbor   KNN分类算法
+
 LinerRegression_GradientDescent.py    线性回归：梯度下降
 
 LinerRegression_LeastSquare.py    线性回归：最小二乘法
