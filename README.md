@@ -1,5 +1,5 @@
 # MechineLearning_code
-手动实ML算法代码
+手动实现ML算法代码
 
 该代码实现一些机器学习算法时为了验证算法效果，使用了python的sklearn库中的一些数据集
 
